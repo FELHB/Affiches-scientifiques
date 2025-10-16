@@ -1,6 +1,7 @@
 # Effect of the soil degradation degree on CO2 emissions in cultivated peatland
 
 **Auteur :** L'Heureux-Bilodeau, F., Dessureault-Rompré, J., Rousseau, A.  
+**Présenté à :** La société canadienne de science du sol (CSSS) - congrès annuel 2023
 
 ---
 
