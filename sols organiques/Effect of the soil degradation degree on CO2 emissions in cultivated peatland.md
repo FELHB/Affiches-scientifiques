@@ -1,6 +1,5 @@
-# Affiche 1 – Effect of the soil degradation degree on CO2 emissions in cultivated peatland
+# Effect of the soil degradation degree on CO2 emissions in cultivated peatland
 
-**Titre de l’affiche :** Effect of the soil degradation degree on CO2 emissions in cultivated peatland  
 **Auteur :** L'Heureux-Bilodeau, F., Dessureault-Rompré, J., Rousseau, A.  
 
 ---
