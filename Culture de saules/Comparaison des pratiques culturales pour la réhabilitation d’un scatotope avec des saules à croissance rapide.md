@@ -1,6 +1,6 @@
 # Comparaison des pratiques culturales pour la réhabilitation d’un scatotope avec des saules à croissance rapide
 
-**Auteur :** Félix L’Heureux Bilodeau  
+**Auteur :** Félix L’Heureux-Bilodeau, Évelyne Thiffault, Jacynthe Dessureault-Rompré 
 **Présenté à :** Journées Centre SÈVE - 2024
 
 ---
